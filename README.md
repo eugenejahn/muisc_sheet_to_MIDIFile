@@ -28,7 +28,8 @@ Results
 Here is the Jupyter Notebook including the main code and result 
 
 Demo:
- ![ DEMO](https://youtu.be/iSfifB1ULYY)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iSfifB1ULYY/0.jpg)](https://youtu.be/iSfifB1ULYY)
+
 
 
 Discussion
