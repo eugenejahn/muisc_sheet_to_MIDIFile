@@ -2,7 +2,8 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-
+# ref
+# https://github.com/afikanyati/cadenCV
 
 def match(img, templates, threshold ):
     img_width, img_height = img.shape[::-1]
